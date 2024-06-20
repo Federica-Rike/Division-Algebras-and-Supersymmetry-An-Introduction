@@ -4,4 +4,4 @@ This repository contains:
 - Notes for the talk;
 - Slides from the talk.
 
-Always remember to observe the standards of academic integrity, e.g. give credits if you use anything. 
+Always remember the standards of academic integrity, e.g. give credits if you use anything. 
