@@ -1,2 +1,7 @@
 # Division_Algebras_and_Supersymmetry_An_Introduction
-Material from the talk [Give credits if you use anything]
+This repository contains:
+- Handout for the talk;
+- Notes for the talk;
+- Slides from the talk.
+
+Always remember to observe the standards of academic integrity, e.g. give credits if you use anything. 
